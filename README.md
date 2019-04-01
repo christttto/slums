@@ -16,6 +16,7 @@ Multiple core features still needs to be added to the application, but the test 
 ## iPad Iteration  
 ### Problem Flow
 ![alt text](images/problem-flow-ipad.png "problem-flow-android-phone")  
+![alt text](images/problem-flow-ipad.gif "problem-flow-android-phone")  
 
 ### Figma Prototype Demonstration
 [iPad Prototype Demonstration in Figma](https://www.figma.com/proto/O2pfv6QMRrd9JZn4cyehOlub/Problem-flow?node-id=61%3A847&scaling=min-zoom "Come take a look!")  
