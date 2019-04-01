@@ -1,5 +1,9 @@
-# slums
-prototyping application that enables clients to self-conduct slums examination  
+# SLUMS Examination
+prototyping application that enables clients to self-conduct SLUMS examination  
+  
+This prototyping project illustrates translation of written test SLUMS to be self-conductable, so the user can have better understanding of current state without a visit to clinic.  
+Multiple core features still needs to be added to the application, but the test presentation being the most important functionality, two iterations of presentation were made for earlier stages of design cycle.  
+
   
 ## Android Iteration  
 ### Problem Flow
