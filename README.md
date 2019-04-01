@@ -2,12 +2,12 @@
 prototyping application that enables clients to self-conduct slums examination  
   
 ## iPad version  
-![alt text](images/problem-flow-ipad.png "problem-flow-ipad")
-
+![alt text](images/problem-flow-ipad.png "problem-flow-ipad")  
+  
   
 ## android version  
-![alt text](images/problem-flow-android-phone.png "problem-flow-android-phone")
-
+![alt text](images/problem-flow-android-phone.png "problem-flow-android-phone")  
+  
   
 ###Context  
 My logic behind was that because the user of the application will have hard time reading the exam, they are more likely to be handed a tablet to them to take the exam without instructor.  
