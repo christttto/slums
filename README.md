@@ -1,6 +1,9 @@
 # SLUMS Examination
 prototyping application that enables clients to self-conduct SLUMS examination  
 
+
+
+
 ## Definition  
 The Saint Louis University Mental Status Exam[1] was developed at the Division of Geriatric Medicine, Saint Louis University School of Medicine in affiliation with the Veterans Association as a screening tool for detecting mild cognitive impairment in a veteran population. ([Wiki](https://en.wikipedia.org/wiki/Saint_Louis_University_Mental_Status_Exam))
 
