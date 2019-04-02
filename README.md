@@ -19,7 +19,10 @@ Multiple core features still needs to be added to the application, but the test 
 ![alt text](images/problem-flow-ipad.png "problem-flow-ipad")  
 ![alt text](images/problem-flow-ipad.gif "problem-flow-ipad")  
 
-### Figma Prototype Demonstration
+### Figma Prototype Demonstration  
+This iPad iteration of problem flow incorporates skeumorphism to improve user experience. Each problem has extra layer with colored background to connotate that this problem is a single unit, like how an index card would hold a unit of information. Because the target user of the application will have different background compared to different usergroup, the iPad iteration has strong emphasis to look like a deck of index cards.  
+
+Click the linke below to try the prototype!  
 [iPad Prototype Demonstration in Figma](https://www.figma.com/proto/O2pfv6QMRrd9JZn4cyehOlub/Problem-flow?node-id=61%3A847&scaling=min-zoom "Come take a look!")  
   
 
